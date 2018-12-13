@@ -43,9 +43,10 @@ Little SAS Book 作为查阅 sas 基本语法命令的书籍实在良心，书�
 
 ### 3 70 题，50 题和 123 题
 
-- SAS 70 题大神 crackman 的讲解版（已下载）
-- SAS 123 题（已下载）
+- [SAS Base 70 题大神 crackman 的讲解版](https://github.com/xzywisdili/SAS-Base/blob/master/practice/SAS%20Base%2070题(crackman).pdf)
+- [SAS 123 题](https://github.com/xzywisdili/SAS-Base/blob/master/practice/SAS%20Base%20123题.pdf)
 - [SAS Base 50 题](https://github.com/xzywisdili/SAS-Base/blob/master/practice/SAS%2050题.pdf)
+- [SAS Base 95 题](https://github.com/xzywisdili/SAS-Base/blob/master/practice/SAS%20Base%2095题.pdf)
 
 当我第一遍看完 on line tutor 后，就去看了 70 题，50 题和 123 题，发现，不会的题目好多啊。我看这些题目时，自己建立了一个 List，把每一道不会的题目的知识点都列了一下，方便自己再次复习时，抓住重点；
 
